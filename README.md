@@ -1,5 +1,3 @@
-# MooTrack_project
-
 *Projeto desenvolvido com Figma* 
 
 MooTrack é um aplicativo de rastreio e controle de gado, além disso o MooTrack também é um gerenciador de fazendas.
